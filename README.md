@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Hi, my name is Kecci and I am a Software Engineer from Indonesia.
+- Hi, my name is Kecci and I am a Integration Engineer from Indonesia.
 - [My Portfolio Website](https://kecci.github.io)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kecci&hide=html)
