@@ -4,7 +4,7 @@
 Hi, my name is Kecci and I am a Software Engineer from Indonesia.
 
 ## Reach Me :
-[Website kecci](https://kecci.github.io) | [Linkedin](https://www.linkedin.com/in/abyan-juang-kecci/) | [Instagram @keccikun](https://www.instagram.com/keccikun/) | [Stackoverflow](https://stackoverflow.com/users/8281610/kecci-kun)
+[Website kecci](https://kecci.github.io) | [Linkedin](https://www.linkedin.com/in/abyan-juang-kecci/) | [Instagram @keccikun](https://www.instagram.com/keccikun/) | [Stackoverflow](https://stackoverflow.com/users/8281610/abyan-juang-kecci)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
