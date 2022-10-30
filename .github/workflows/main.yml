@@ -15,3 +15,10 @@ jobs:
       - uses: kecci/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_traffic: yes
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
+          plugin_sponsors: yes
+          plugin_achievements: yes
