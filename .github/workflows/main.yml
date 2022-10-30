@@ -22,3 +22,4 @@ jobs:
           plugin_discussions_categories_limit: 8
           plugin_sponsors: yes
           plugin_achievements: yes
+          plugin_achievements_display: compact
