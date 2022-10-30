@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, cmake
+          plugin_languages_ignored: html, css, scss, cmake, shell
           plugin_traffic: yes
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
