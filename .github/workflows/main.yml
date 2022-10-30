@@ -23,3 +23,4 @@ jobs:
           plugin_sponsors: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_achievements_threshold: X
