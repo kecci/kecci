@@ -17,10 +17,20 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, cmake, shell
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_traffic: yes
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
           plugin_sponsors: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_16personalities: yes
+          plugin_16personalities_url: https://www.16personalities.com/profiles/ef6129e039ca0
+          plugin_16personalities_sections: personality, profile, traits
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
