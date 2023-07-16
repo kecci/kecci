@@ -28,7 +28,7 @@ jobs:
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
           plugin_sponsors: yes
-          plugin_achievements: no
+          plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_16personalities: yes
           plugin_16personalities_url: https://www.16personalities.com/profiles/ef6129e039ca0
