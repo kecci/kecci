@@ -9,4 +9,10 @@ I contributed to `53` repositories and made `389` commits.
 ### My Daily Dev Reads
 <a href="https://app.daily.dev/kecci"><img src="https://api.daily.dev/devcards/v2/1GuXBDt2X.png?type=default&r=ncw" width="356" alt="kecci's Dev Card"/></a>
 
+### My Links
+- Linkedin: https://linkedin.com/in/abyan-juang-kecci
+- Github: https://github.com/kecci
+- Website: https://kecci.github.io
+- Medium: https://medium.com/@kecci
+
 > *Generated with [lowlighter/metrics@3.34.0](https://github.com/lowlighter/metrics)*
