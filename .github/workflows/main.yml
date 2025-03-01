@@ -28,8 +28,8 @@ jobs:
           plugin_achievements_display: compact
           plugin_contributors: yes
           plugin_contributors_contributions: yes
-          plugin_people: yes
-          plugin_people_types: followers, contributors, stargazers, watchers, sponsors
+          # plugin_people: yes
+          # plugin_people_types: followers, contributors, stargazers, watchers, sponsors
           plugin_sponsorships: yes
           plugin_topics: yes
           plugin_topics_limit: 0
