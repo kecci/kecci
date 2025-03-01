@@ -1,3 +1,3 @@
 ![Metrics](/github-metrics.svg)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/671fd87431d65c235d4b1624?variant=dark)](https://roadmap.sh)
+<a href="https://app.daily.dev/kecci"><img src="https://api.daily.dev/devcards/v2/1GuXBDt2X.png?type=default&r=ncw" width="356" alt="kecci's Dev Card"/></a>
