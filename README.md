@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm kecci
 
 I joined GitHub on `20/01/2017`.
-I contributed to `53` repositories and made `389` commits.
+I contributed to `54` repositories and made `389` commits.
 
 ### My Github Metrics
 ![Metrics](/github-metrics.svg)
