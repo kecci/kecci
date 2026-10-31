@@ -15,4 +15,4 @@ I contributed to `45` repositories and made `398` commits.
 - Website: https://kecci.github.io
 - Medium: https://medium.com/@kecci
 
-> *Generated with [lowlighter/metrics@3.34.0](https://github.com/lowlighter/metrics)*
+> *Generated with [lowlighter/metrics@3.34.0-beta](https://github.com/lowlighter/metrics)*
